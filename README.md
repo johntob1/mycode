@@ -1,3 +1,5 @@
+# learning version control within git
+
 # mycode
 # mycode (Project Title)
 
